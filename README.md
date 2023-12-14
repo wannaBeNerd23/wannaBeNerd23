@@ -1,14 +1,42 @@
-### Hi there, I'm Lajeet! 👋
+![lajeet_android_dev](https://github.com/wannaBeNerd23/wannaBeNerd23/assets/14135319/563cba19-bd51-4773-8506-eae8d8a18597)
 
-A **Senior Software Engineer** based out of Bangalore, India. 
+<h1 align="center">Hi there 👋, I'm Lajeet</h1>
+<h3 align="center">Senior Mobile App Engineer based out of Bangalore, India</h3>
 
-- Currently working on Android Application for a Unicorn Startup based out in Bangalore
-- Mostly into Full Stack Mobile Appplication Development, specializing in Android
-- Looking to collaborate on Android, Flutter based projects
-- Excited about the Blockchain Development space as well (exploring it, as of now)
-- Pronouns: He/him
 
-Looking forward to contribute & connect with smart minds out here!
+
+<table>
+  <tr>
+    <td valign="top" width="65%">
+      <div align="left">
+        <p align="left"></p>
+        <p align="left">• Currently, looking out for Android Developer job opportunities</p>*
+        <p align="left">• Recently, worked on Android Native application in a Unicorn Startup i.e. Apna</p>
+        <p align="left">• Mostly into Full Stack Mobile Appplication Development, specializing in Android</p>
+        <p align="left">• Looking to collaborate on Android, KMP, Flutter based projects</p>
+        <p align="left">• Started learning KMP and I'm in love with it so far</p>
+        <p align="left">• Pronouns: He/him</p>        
+      </div>
+    </td>
+    <td valign="top" width="35%">
+      <p align="right"><img align="right" src= "https://github.com/wannaBeNerd23/wannaBeNerd23/assets/14135319/8bbf2520-70ef-4ed5-a70e-9d4ba2c24ca8"/></p>
+    </td>
+  </tr>
+</table>
+
+
+### Contributions:
+
+#### Apna
+
+#### YourStory
+
+#### Get My Parking
+
+#### Rizort
+
+#### VoyageUp
+
 
 <!-- ## Github Stats
 <p align="center">
